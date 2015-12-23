@@ -3,6 +3,7 @@
 #ifndef __STOPWATCH_H
 #define __STOPWATCH_H
 
+#include <stdlib.h>
 #include <stdint.h>
 #include <sys/time.h>
 
